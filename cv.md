@@ -20,4 +20,14 @@ I’m sure that this quote will be my motto in the near future.
 
 *I absorb information like a sponge!*
 
+***
 
+## Code examples
+I haven't had programming practice for the past two years. Hope I can fix it in RSS. <br>
+But! --> [Codecademy], (https://www.codecademy.com/users/nastassiadyd/achievements)
+[HTMLAcademy] (https://htmlacademy.ru/profile/id1014665/achievements)
+
+***
+
+## Experience
+I’ve been working as the head of the laboratory of the department of management since 2017. I work out the distribution. I don’t plan to remain in this position, so after the termination of the contract I really want to work in my specialty, I am an engineer-economist-programmer!

@@ -31,3 +31,15 @@ But! --> [Codecademy], (https://www.codecademy.com/users/nastassiadyd/achievemen
 
 ## Experience
 I’ve been working as the head of the laboratory of the department of management since 2017. I work out the distribution. I don’t plan to remain in this position, so after the termination of the contract I really want to work in my specialty, I am an engineer-economist-programmer!
+
+***
+
+## Education
+** Year: ** 2012-2017
+** University: ** Belarusian State University of Informatics and Radioelectronics
+**Faculty: ** Engineering and Economic
+
+***
+
+## English
+English language courses MSLU (October -January). Level B1.

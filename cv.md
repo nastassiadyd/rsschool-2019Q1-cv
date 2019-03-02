@@ -35,9 +35,11 @@ I’ve been working as the head of the laboratory of the department of managemen
 ***
 
 ## Education
-** Year: ** 2012-2017
-** University: ** Belarusian State University of Informatics and Radioelectronics
-**Faculty: ** Engineering and Economic
+
+| Year     |      University      |  Faculty |
+|----------|:-------------:|------:|
+| 2012-2017 |  Belarusian State University of Informatics and Radioelectronics | Engineering and Economic |
+
 
 ***
 

@@ -24,8 +24,8 @@ I’m sure that this quote will be my motto in the near future.
 
 ## Code examples
 I haven't had programming practice for the past two years. Hope I can fix it in RSS. <br>
-But! --> [Codecademy], (https://www.codecademy.com/users/nastassiadyd/achievements)
-[HTMLAcademy] (https://htmlacademy.ru/profile/id1014665/achievements)
+- [Codecademy](https://www.codecademy.com/users/nastassiadyd/achievements)
+- [HTMLAcademy](https://htmlacademy.ru/profile/id1014665/achievements)
 
 ***
 
@@ -37,7 +37,7 @@ I’ve been working as the head of the laboratory of the department of managemen
 ## Education
 
 | Year     |      University      |  Faculty |
-|----------|:-------------:|------:|
+|----------|----------------------|----------|
 | 2012-2017 |  Belarusian State University of Informatics and Radioelectronics | Engineering and Economic |
 
 

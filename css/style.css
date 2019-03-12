@@ -15,9 +15,7 @@
 .left-column {
     color: rgb(25, 2, 29);
     width: 50%;
-    
     padding: 15px;
-
 }
 
 .right-column {
@@ -39,7 +37,6 @@
     height: 250px;
     border-radius:50%;
     filter: grayscale(0.9);
-
 }
 
 h1 {
@@ -48,8 +45,6 @@ h1 {
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     font-size: 30px;
 }
-
-
 
 .contacts {
     padding-top: 30px;
@@ -65,7 +60,6 @@ h1 {
     width: 250px;
     background: rgb(255, 208, 0);
 }
-
 
 ul {
     list-style: none;
@@ -99,7 +93,7 @@ blockquote {
     margin-top: 20px;
 }
 
-    blockquote:before {
+blockquote:before {
     content: "\201C";
     font-family: serif;
     position: absolute;
@@ -112,21 +106,21 @@ blockquote {
     font-size: 50px;
     line-height: 1.35;
     text-align: center;
-    }
+}
 
-    blockquote p {
+blockquote p {
     margin: 0 0 16px;
     font-size: 22px;
     letter-spacing: .05em;
     line-height: 1.4;
-    }
+}
 
-    blockquote cite {
+blockquote cite {
     font-style: normal;
-    }
-    /* Конец стилизации цитаты*/
+}
+    /* Конец стилей цитаты*/
 
-    .line {
+.line {
     background-color: rgb(255, 208, 0);
     height: 44px;
     width: 40%;
@@ -136,8 +130,8 @@ blockquote {
     padding: 10px;
     margin-bottom: 10px;
     margin-top: 25px;
-    }
+}
 
-    .skills {
-        margin-top: -20px;
-    }
+.skills {
+    margin-top: -20px;
+}
